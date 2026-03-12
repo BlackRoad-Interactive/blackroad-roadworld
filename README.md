@@ -1,5 +1,12 @@
 # RoadWorld Module
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E.svg)](https://developer.mozilla.org)
+[![MapLibre](https://img.shields.io/badge/MapLibre-GL-4264FB.svg)](https://maplibre.org)
+[![19 Modules](https://img.shields.io/badge/modules-19-FF6B2B.svg)](https://blackroad.io)
+[![Multiplayer](https://img.shields.io/badge/multiplayer-game-CC00AA.svg)](https://blackroad.io)
+
+
+
 BlackRoad Earth street-level exploration module built with MapLibre GL.
 
 ## Features
